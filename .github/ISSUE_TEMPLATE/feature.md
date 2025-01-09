@@ -1,6 +1,6 @@
 ---
-name: 이슈 생성 템플릿
-about: 해당 템플릿을 사용하여 이슈를 생성해주세요.
+name: Feature
+about: 새로운 기능 추가
 title: "[FEAT] 도메인 : 기능 이름"
 labels: ''
 assignees: ''
